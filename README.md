@@ -140,10 +140,10 @@ t-flow/
 │   ├── render.yaml              # Deployment config
 │   └── supabase_setup.sql       # Database schema
 │
-└── 📁 Demo/                      # Demo Materials (see below)
-    ├── screenshots/              # Application screenshots
-    ├── demo-video-link.md       # Link to demo video
-    └── user-guide.md            # Usage instructions
+└── 📁 Demo/                      # Demo Materials
+    ├── *.jpg                    # Application screenshots
+    ├── *.mp4                    # Demo video file
+    └── youtube-description-*.txt # YouTube video descriptions
 ```
 
 ## 🚀 Getting Started
@@ -263,14 +263,21 @@ GET /api/health
 
 ## 🎬 Demo Materials
 
-The `Demo/` folder contains comprehensive demonstration materials:
+The `Demo/` folder contains screenshots, demo video, and YouTube description:
 
 ### 📸 Screenshots
-- **Dashboard Overview**: Main application interface
-- **Triage Assessment**: Step-by-step patient evaluation
-- **Patient Management**: Queue and status tracking
-- **Analytics Dashboard**: Real-time statistics and charts
-- **Mobile Responsive**: Cross-device compatibility
+
+#### Dashboard Overview
+![Dashboard Overview](Demo/05a8a1f3a7bb4e4b81c0378102452e9a.jpg)
+
+#### Triage Assessment Form
+![Triage Assessment](Demo/12027150d01e4fda99a5dfab77b03dba.jpg)
+
+#### Patient Management System
+![Patient Management](Demo/53d65ba58ccf4fc9bb6f97448d5c513f.jpg)
+
+#### Analytics and Results
+![Analytics Dashboard](Demo/b4153e1f118241b680417fe26025a247.jpg)
 
 ### 🎥 Demo Video
 A comprehensive walkthrough video demonstrating:
@@ -280,14 +287,13 @@ A comprehensive walkthrough video demonstrating:
 - Dashboard analytics and patient management
 - System reliability and error handling
 
-**Video Link**: [T-Flow AI Demo Video](Demo/demo-video-link.md)
+**Video Link**: [T-Flow AI Demo Video on YouTube](https://youtu.be/h08y9tAbt6I)
 
-### 📋 User Guide
-Detailed instructions for:
-- System navigation
-- Patient assessment procedures
-- Dashboard interpretation
-- Troubleshooting common issues
+### 📋 Usage Instructions
+- **System Navigation**: Use the sidebar menu to access different sections of the application
+- **Patient Assessment**: Complete the triage form with patient symptoms and vital signs
+- **Dashboard Interpretation**: Monitor real-time statistics and patient queue
+- **Troubleshooting**: Refer to the API documentation for endpoint details
 
 ## 🔬 Testing & Validation
 
