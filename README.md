@@ -263,7 +263,7 @@ GET /api/health
 
 ## 🎬 Demo Materials
 
-The `Demo/` folder contains screenshots, demo video, and YouTube description:
+The `Demo/` folder contains screenshots and demo video
 
 ### 📸 Screenshots
 
@@ -322,7 +322,7 @@ npm test
 - **Database**: Supabase PostgreSQL with automated backups
 
 ### Live Instances
-- **Frontend Demo**: https://vercel.com/iyad07s-projects/v0-t-flow-ai-frontend
+- **Frontend Demo**: https://t-flow.vercel.app/
 - **Backend API**: https://tflow-medical-triage.onrender.com
 - **API Documentation**: https://tflow-medical-triage.onrender.com/docs
 
