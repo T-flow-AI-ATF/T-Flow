@@ -46,7 +46,6 @@ The demo video covers:
 
 **Local Video File**: `bf32d11d1d7d4402b445f453f7e08e9c.mp4`
 
-*Note: The video file is included in this Demo folder. For online access, the video can be uploaded to YouTube, Vimeo, or another video platform.*
 
 ### 📊 Demo Scenarios Covered
 
