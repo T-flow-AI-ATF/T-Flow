@@ -270,13 +270,13 @@ The `Demo/` folder contains screenshots, demo video, and YouTube description:
 #### Dashboard Overview
 ![Dashboard Overview](Demo/05a8a1f3a7bb4e4b81c0378102452e9a.jpg)
 
-#### Triage Assessment Form
+#### Settings
 ![Triage Assessment](Demo/12027150d01e4fda99a5dfab77b03dba.jpg)
 
-#### Patient Management System
+#### Statistics
 ![Patient Management](Demo/53d65ba58ccf4fc9bb6f97448d5c513f.jpg)
 
-#### Analytics and Results
+#### Triage and Vitals Form( Mediacal Assesment)
 ![Analytics Dashboard](Demo/b4153e1f118241b680417fe26025a247.jpg)
 
 ### 🎥 Demo Video
