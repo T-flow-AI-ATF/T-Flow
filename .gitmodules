@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/T-flow-AI-ATF/frontend.git
+[submodule "backend-and-ai-integrations"]
+	path = backend-and-ai-integrations
+	url = https://github.com/T-flow-AI-ATF/backend-and-ai-integrations
